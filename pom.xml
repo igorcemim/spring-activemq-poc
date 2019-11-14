@@ -8,8 +8,9 @@
 		<version>2.2.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
 	<groupId>br.com.cemim</groupId>
-	<artifactId>auth</artifactId>
+	<artifactId>spring-activemq-poc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
