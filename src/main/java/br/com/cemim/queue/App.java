@@ -22,7 +22,7 @@ public class App implements ApplicationRunner {
 
     @Override
     public void run(ApplicationArguments args) throws Exception {
-        sender.send(new ExampleMessage("Hello world!"));
+        sender.send(new ExampleMessage("Hello world!!!"));
     }
 
 }
